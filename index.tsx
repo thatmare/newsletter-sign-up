@@ -7,8 +7,8 @@ import { Form } from './src/components/Form';
 
 ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
   <React.StrictMode>
-    <Figure/>
-    <Article/> 
-    <Form/>
+      <Figure/>
+      <Article/> 
+      <Form/>
   </React.StrictMode>,
 )
