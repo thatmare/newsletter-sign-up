@@ -2,7 +2,7 @@ import React from "react";
 
 export function Article() {
     return (
-        <article className="px-6 pt-6 text-indigo-950">
+        <article className="px-6 pt-6 text-blue-950">
            <h1 className="font-roboto-bold font-extrabold text-3xl">Stay updated!</h1> 
            <p className="font-roboto-regular my-4">Join 60,000+ product managers receiving monthly updates on:</p>
            <ul>
